@@ -55,5 +55,6 @@ start server in server.js
 ```
 4.  Client Side
 ```
+cd client
 npm start
 ```
